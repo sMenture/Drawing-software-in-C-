@@ -1,0 +1,17 @@
+C:\Users\spqr\Documents\С#\NePaint\bin\Debug\NePaint.exe.config
+C:\Users\spqr\Documents\С#\NePaint\bin\Debug\NePaint.exe
+C:\Users\spqr\Documents\С#\NePaint\bin\Debug\NePaint.pdb
+C:\Users\spqr\Documents\С#\NePaint\obj\Debug\NePaint.csproj.AssemblyReference.cache
+C:\Users\spqr\Documents\С#\NePaint\obj\Debug\MainWindow.g.cs
+C:\Users\spqr\Documents\С#\NePaint\obj\Debug\App.g.cs
+C:\Users\spqr\Documents\С#\NePaint\obj\Debug\NePaint_MarkupCompile.cache
+C:\Users\spqr\Documents\С#\NePaint\obj\Debug\NePaint_MarkupCompile.lref
+C:\Users\spqr\Documents\С#\NePaint\obj\Debug\MainWindow.baml
+C:\Users\spqr\Documents\С#\NePaint\obj\Debug\NePaint.g.resources
+C:\Users\spqr\Documents\С#\NePaint\obj\Debug\NePaint.Properties.Resources.resources
+C:\Users\spqr\Documents\С#\NePaint\obj\Debug\NePaint.csproj.GenerateResource.cache
+C:\Users\spqr\Documents\С#\NePaint\obj\Debug\NePaint.csproj.CoreCompileInputs.cache
+C:\Users\spqr\Documents\С#\NePaint\obj\Debug\NePaint.exe
+C:\Users\spqr\Documents\С#\NePaint\obj\Debug\NePaint.pdb
+C:\Users\spqr\Documents\С#\NePaint\obj\Debug\Windows\WindowCreateNewCanvas.g.cs
+C:\Users\spqr\Documents\С#\NePaint\obj\Debug\Windows\WindowCreateNewCanvas.baml
